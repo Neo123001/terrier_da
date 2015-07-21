@@ -1,4 +1,6 @@
 /*
+Edited by Harshit Patel --Email:harshit94296@gmail.com
+
  * Terrier - Terabyte Retriever
  * Webpage: http://terrier.org
  * Contact: terrier{a.}dcs.gla.ac.uk
@@ -100,7 +102,7 @@ public class BasicIndexer extends Indexer
 		public void processTerm(String term)
 		{
 		
-			System.out.println("this is BasicTermProcessorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr");
+		
 			/* null means the term has been filtered out (eg stopwords) */
 			if (term != null)
 			{
