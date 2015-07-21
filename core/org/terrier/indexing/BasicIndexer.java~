@@ -1,6 +1,4 @@
 /*
-Edited by Harshit Patel --Email:harshit94296@gmail.com
-
  * Terrier - Terabyte Retriever
  * Webpage: http://terrier.org
  * Contact: terrier{a.}dcs.gla.ac.uk
@@ -25,6 +23,12 @@ Edited by Harshit Patel --Email:harshit94296@gmail.com
  * Contributor(s):
  *   Craig Macdonald <craigm{a.}dcs.gla.ac.uk> (original author)
  *   Vassilis Plachouras <vassilis{a.}dcs.gla.ac.uk>
+ */
+ 
+ /*
+ * Edited by Harshit Patel --Email:201301095@daiict.ac.in
+ * Modified for n gram indexing
+ * To use n gram indexing write "ngrams=N" in terrier.properties file
  */
 package org.terrier.indexing;
 import gnu.trove.TIntHashSet;
